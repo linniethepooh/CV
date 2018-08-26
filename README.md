@@ -72,7 +72,7 @@ A product-driven, full-stack web development bootcamp focusing on best-practice 
 - Often asked to support managerial duties including checking work for accuracy
 
 #### Randstad Financial & Professional (Jul 2014 to Jan 2015)
-*Trainee Recruitment Consultant, Risk & Quantative Finance*
+*Trainee Recruitment Consultant, Risk & Quantitive Finance*
 
 - Responsible for sourcing and pre-screening candidates for placement in job roles
 - Identified high calibre candidates using a variety of approaches including cold calling, online job boards, LinkedIn and professional networking
