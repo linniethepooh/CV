@@ -30,7 +30,7 @@ Our first team challenge at Le Wagon was to build a marketplace using Ruby on Ra
 
 A product-driven, full-stack web development bootcamp focusing on best-practice and software craftsmanship through behaviours such as OOP, TDD and pair programming.
 
-- Ruby, JavaScript, HTML/CSS
+- Ruby, JavaScript, HTML, CSS
 - Sinatra, Rails
 - ActiveRecord, MySQL, PostgreSQL, git & Github
 
