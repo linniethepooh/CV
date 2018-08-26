@@ -41,7 +41,7 @@ A product-driven, full-stack web development bootcamp focusing on best-practice 
 - Member of the Finance Society
 - Successfully co-founded an independent student-run club night, Polka, developing the brand from the ground up
 
-#### Aquinas Sixth Form College (Sept 2008 to Jun 2010)
+#### Aquinas Sixth Form College (Sept 2008 to Jun 2008)
 
 - A Levels: Communication & Culture (A), Business Studies (B) and Accounting (B)
 - ICAEW National Business Game (BASE) Regional Winner 2010
