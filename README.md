@@ -83,7 +83,7 @@ A product-driven, full-stack web development bootcamp focusing on best-practice 
 
 - Attend meet-ups to learn more about technology
 - Train at the boxing gym, run or go to yoga
-- Vist art galleries, attend gigs and music festivals
+- Visit art galleries, attend gigs and music festivals
 - Explore different European cities or experience unfamiliar cultures further afield
 
 ## Linkedin
