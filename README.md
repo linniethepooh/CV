@@ -66,7 +66,6 @@ A product-driven, full-stack web development bootcamp focusing on best-practice 
 *Remediation Review & Redress Handler*
 
 - Responsible for ensuring the fair settlement of valid complaints associated with numerous products including credit cards and loans
-- Involved in all areas of the complaint process specifically review, remediation and redress
 - Ensured customers were treated fairly and received an excellent level of service in accordance with industry and company guidelines
 - Corresponded with customers through both written and verbal communications
 - Consistently maintained high levels of productivity and accuracy in a target-driven environment
