@@ -43,7 +43,7 @@ A product-driven, full-stack web development bootcamp focusing on best-practice 
 
 #### Aquinas Sixth Form College (September 2008 to June 2010)
 
-- A Levels: Communication & Culture (A), Business Studies (B), Accounting (B)
+- A Levels: Communication & Culture (A), Business Studies (B) and Accounting (B)
 - ICAEW National Business Game (BASE) Regional Winner 2010
 - ICAEW National Business Game (BASE) National Runner-up 2010
 
