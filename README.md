@@ -26,7 +26,7 @@ Our first team challenge at Le Wagon was to build a marketplace using Ruby on Ra
 
 ## Education
 
-#### Le Wagon, Bali (June 2018 to August 2018)
+#### Le Wagon, Bali (Jun 2018 to Aug 2018)
 
 A product-driven, full-stack web development bootcamp focusing on best-practice and software craftsmanship through behaviours such as OOP, TDD and pair programming.
 
@@ -34,20 +34,20 @@ A product-driven, full-stack web development bootcamp focusing on best-practice 
 - Sinatra, Rails
 - ActiveRecord, MySQL, PostgreSQL, git & Github
 
-#### University of Liverpool (September 2011 to July 2014)
+#### University of Liverpool (Sept 2011 to Jul 2014)
 
 - BA (Hons) International Business
 - Vice General Secretary of the Investment Club
 - Member of the Finance Society
 - Successfully co-founded an independent student-run club night, Polka, developing the brand from the ground up
 
-#### Aquinas Sixth Form College (September 2008 to June 2010)
+#### Aquinas Sixth Form College (Sept 2008 to Jun 2010)
 
 - A Levels: Communication & Culture (A), Business Studies (B) and Accounting (B)
 - ICAEW National Business Game (BASE) Regional Winner 2010
 - ICAEW National Business Game (BASE) National Runner-up 2010
 
-#### St James' Catholic High School (September 2004 to June 2011)
+#### St James' Catholic High School (Sept 2004 to Jun 2011)
 
 - GCSEs: 8 (A-C) including Maths, Science and English
 
